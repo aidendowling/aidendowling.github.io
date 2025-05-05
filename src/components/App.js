@@ -16,6 +16,7 @@ const BodyFontSizeOverride = createGlobalStyle`
 `;
 const CustomBackground = createGlobalStyle`
   body {
+    background-color: #E6C68A;
     background-image: url(${props => props.backgroundImage});
     background-size: 100%;
     background-position: center;

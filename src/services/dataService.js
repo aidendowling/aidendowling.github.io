@@ -158,23 +158,34 @@ export default class DataService {
       {
         id: 'clubs',
         name: 'Clubs.txt',
-        icon: 'notepad_2',
+        icon: 'notepad_1',
         content: {
           clubExperience: [
             {
-              clubTitle: 'Georgia Tech Computer Science Club',
-              role: 'Active Member',
-              period: '2023 - Present',
-              accomplishments: 'Participated in coding competitions and community outreach activities.',
+              clubTitle: 'Georgia Tech HexLabs',
+              role: 'Tech Team Lead',
+              period: 'JAN 2025 - PRES',
+              accomplishments: 'Organizer for non-profit organization responsible for GT’s flagship hackathon, spearheading website/app development.',
             },
             {
-              clubTitle: 'Engineering Honor Society',
-              role: 'Secretary',
-              period: '2024 - Present',
-              accomplishments: 'Coordinated meetings, managed communications, and organized tutoring sessions for underclassmen.',
+              clubTitle: 'UGAHacks',
+              role: 'Logistics Advisor',
+              period: 'JAN 2024 - PRESENT',
+              accomplishments: 'Lead advisor of UGA Hack’s annual hackathons while attending Georgia Tech, previous logistics team lead.',
             },
-            // Add more actual club experiences as needed
-          ],
+            {
+              clubTitle: 'Georgia Tech Barbell Club',
+              role: 'University Athlete (Previous UGA Athlete)',
+              period: 'JAN 2024 - PRESENT',
+              accomplishments: 'Trained rigorously for powerlifting technique and strength, compete in the USAPL GA State Collegiate Championship.',
+            },      
+            {
+              clubTitle: 'Georgia StemZone',
+              role: 'President of Logistics and External Affairs',
+              period: 'MAY 2023 - PRESENT',
+              accomplishments: 'Organized multiple UGA & GT STEM fairs, focusing on computer science education and outreach. Previous logistics team member',
+            },    
+           ],
         },
       },
       {
