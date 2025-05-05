@@ -164,7 +164,7 @@ export default class DataService {
             {
               clubTitle: 'Georgia Tech HexLabs',
               role: 'Tech Team Lead',
-              period: 'JAN 2025 - PRES',
+              period: 'JAN 2025 - PRESENT',
               accomplishments: 'Organizer for non-profit organization responsible for GT’s flagship hackathon, spearheading website/app development.',
             },
             {
@@ -175,13 +175,13 @@ export default class DataService {
             },
             {
               clubTitle: 'Georgia Tech Barbell Club',
-              role: 'University Athlete (Previous UGA Athlete)',
+              role: 'University Athlete (Previous @ UGA)',
               period: 'JAN 2024 - PRESENT',
               accomplishments: 'Trained rigorously for powerlifting technique and strength, compete in the USAPL GA State Collegiate Championship.',
             },      
             {
               clubTitle: 'Georgia StemZone',
-              role: 'President of Logistics and External Affairs',
+              role: 'President of Logistics and Outreach',
               period: 'MAY 2023 - PRESENT',
               accomplishments: 'Organized multiple UGA & GT STEM fairs, focusing on computer science education and outreach. Previous logistics team member',
             },    
