@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aidendowling.github.io/portfoliosite",
   "dependencies": {
     "16": "^0.0.2",
     "@react95/core": "^2.10.0",
@@ -15,12 +16,14 @@
     "styled-components": "^5.3.11",
     "webamp": "^1.4.1-beta01"
   },
-"scripts": {
-  "start": "react-scripts --openssl-legacy-provider start",
-  "build": "react-scripts --openssl-legacy-provider build",
-  "test": "react-scripts --openssl-legacy-provider test",
-  "eject": "react-scripts --openssl-legacy-provider eject"
-},
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts --openssl-legacy-provider test",
+    "eject": "react-scripts --openssl-legacy-provider eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
