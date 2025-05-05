@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aidendowling.github.io/portfoliosite",
+  "homepage": "https://aidendowling.github.io/portfolio",
   "dependencies": {
     "16": "^0.0.2",
     "@react95/core": "^2.10.0",
