@@ -30,7 +30,9 @@ export default class DataService {
               location: 'Atlanta, GA',
               period: 'MAY 2025 – AUG 2025',
               accomplishments: [
-                'In progress!!',
+                'Integrated the company’s private LLM & RAG model into a SIEM dashboard, delivering automation to 1,000+ clients',
+                'Implemented security automation with Jenkins & Python, streamlining continuous delivery & cut alert noise by 99%',
+                'Utilized PuTTY and Postman to implement advanced test cases, improving precision & enabling 95% automated resolutions',
               ],
             },
             {
